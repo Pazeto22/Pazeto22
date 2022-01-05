@@ -1,11 +1,11 @@
-<h1 align="center">Hello there. I am Gustavo</h1>
-<h3 align="center">Front-End Developer</h3>
+### Hello there. I am Gustavo, a front-end developer with a passion for UI / UX
+
 
 | <img height="176" src="https://github-readme-stats.vercel.app/api?username=Pazeto22&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> | <img height="176" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pazeto22&layout=compact&langs_count=16&theme=react"/>
 | - | - |
 
 
-<h3 align="left">Languages and Tools:</h3>
+#### Languages and Tools:
 
 <p align="left">
   <a
@@ -89,4 +89,4 @@
 
 #### You can find me at
 
-[![LikedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pazeto22/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pazeto22/)
