@@ -1,4 +1,4 @@
-### Hello there. I am Gustavo, a front-end developer with a passion for UI / UX
+### Hello there. I am Gustavo, a front-end developer passionate about UI / UX
 
 
 | <img height="176" src="https://github-readme-stats.vercel.app/api?username=Pazeto22&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> | <img height="176" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pazeto22&layout=compact&langs_count=16&theme=react"/>
