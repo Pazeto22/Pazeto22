@@ -66,8 +66,16 @@
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"
       alt="nextjs"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original-wordmark.svg"
+      alt="vue"
       width="40"
       height="40"
     />
